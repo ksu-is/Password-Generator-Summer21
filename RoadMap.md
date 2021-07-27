@@ -8,4 +8,6 @@
 - [x] Find related repositories and Clone
 
 ## Sprint 2 
+- [x] Add code to make GUI
+- [x] Write/find code to store passwords in a file 
 
